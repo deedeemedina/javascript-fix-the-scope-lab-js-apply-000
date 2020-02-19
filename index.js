@@ -5,8 +5,8 @@ function myAnimal() {
 return animal
 }
 
-function yourAnimal() {
-  
+function yourAnimal(string) {
+  string = "cat"
   // The tests expect this function to return `animal` just like the previous function
   // However, you cannot simply modify the existing variable declared on line 1 in the global scope
   // How can we make sure that this function
