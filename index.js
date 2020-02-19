@@ -15,7 +15,7 @@ function yourAnimal(string) {
 
 }
 
-yourAnimal("cat", animal);
+yourAnimal(string)
 
 
 function add2(n) {
